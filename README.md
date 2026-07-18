@@ -163,18 +163,6 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add your Power BI Dashboard screenshot here.
-
-Example:
-
-```
-Dashboard_Screenshots/dashboard.png
-```
-
----
-
 # 👨‍💻 Author
 
 **Parth K. Tiwari**
