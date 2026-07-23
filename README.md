@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Customer Shopping Behavior Analysis is an end-to-end Data Analytics project that analyzes customer purchasing patterns using transactional data. The project combines **Python, PostgreSQL, and Power BI** to clean, analyze, and visualize customer behavior, enabling data-driven business decisions.
+Customer Shopping Behavior Analysis is an end-to-end Data Analytics project that analyzes customer purchasing patterns using transactional data. The project combines **Python, MySQL, and Power BI** to clean, analyze, and visualize customer behavior, enabling data-driven business decisions.
 
 The objective is to identify customer trends, product performance, spending behavior, subscription patterns, and revenue opportunities.
 
@@ -163,18 +163,11 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Parth K. Tiwari**
 
-AI & Data Science Student
+LinkedIn: https://www.linkedin.com/in/parth-k-tiwari-579b46293/
 
-- Python
-- SQL
-- PostgreSQL
-- Power BI
-- Data Analytics
+GitHub: https://github.com/parthtiwari038
 
----
-
-## ⭐ If you found this project useful, consider giving it a Star!
