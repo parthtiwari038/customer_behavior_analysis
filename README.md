@@ -94,6 +94,8 @@ The following business questions were answered using PostgreSQL:
 
 ## 📈 Power BI Dashboard
 
+![Dashboard](Dashboard@01.png)
+
 The dashboard provides interactive insights including:
 
 - Total Customers
