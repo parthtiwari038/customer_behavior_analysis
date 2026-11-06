@@ -71,7 +71,7 @@ The objective is to identify customer trends, product performance, spending beha
   - Created Age Groups
   - Created Purchase Frequency feature
 - Removed redundant columns
-- Loaded cleaned data into PostgreSQL
+- Loaded cleaned data into MySQL
 
 ---
 
