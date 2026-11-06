@@ -12,7 +12,7 @@ The objective is to identify customer trends, product performance, spending beha
 
 - Analyze customer purchasing behavior.
 - Clean and preprocess real-world transactional data.
-- Perform business analysis using SQL.
+- Perform business analysis using MySQL.
 - Build an interactive Power BI dashboard.
 - Generate actionable business recommendations.
 
@@ -54,7 +54,7 @@ The objective is to identify customer trends, product performance, spending beha
 - Python
 - Pandas
 - NumPy
-- PostgreSQL
+- MySQL
 - SQL
 - Power BI
 
@@ -153,17 +153,6 @@ Customer-Shopping-Behavior-Analysis/
 └── requirements.txt
 ```
 
----
-
-# 🚀 Future Improvements
-
-- Customer Lifetime Value (CLV) Prediction
-- Customer Churn Prediction
-- Product Recommendation System
-- Sales Forecasting
-- Interactive Web Dashboard using Streamlit
-
----
 
 ## 👨‍💻 Author
 
